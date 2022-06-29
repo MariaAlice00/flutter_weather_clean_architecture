@@ -18,7 +18,7 @@ class WeatherPage extends StatelessWidget {
         backgroundColor: Colors.white,
         title: Text(
           'Weather',
-          style: TextStyle(color: Colors.orange),
+          style: TextStyle(color: Colors.purple),
         ),
       ),
       body: Padding(

@@ -1,3 +1,5 @@
+// ignore_for_file: prefer_const_declarations
+
 import 'dart:convert';
 import 'package:flutter_weather_clean_architecture/core/constants.dart';
 import 'package:flutter_weather_clean_architecture/core/errors/exception.dart';
